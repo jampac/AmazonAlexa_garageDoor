@@ -8,7 +8,7 @@
 fauxmoESP fauxmo;
 
 #define WIFI_SSID "entropy"
-#define WIFI_PASS "k4som16!"
+#define WIFI_PASS "xxxxxx"
 
 #define DHTPIN 2          // What digital pin we're connected to
 #define DHTTYPE DHT11     // DHT 11
